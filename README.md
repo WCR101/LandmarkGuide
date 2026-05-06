@@ -9,6 +9,7 @@ Software development was contributed separately and does not claim ownership of 
 Caitlin Connor-Royer & Dale Royer — Original Inventors
 
 Wes Roddie — Software Developer
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A React Native (Expo) iOS/Android app that detects nearby landmarks as you drive or walk and announces them aloud — like turn-by-turn navigation, but for points of interest.
 
