@@ -23,7 +23,8 @@ A React Native (Expo) iOS/Android app that detects nearby landmarks as you drive
 
 ## Screenshots
 
-> Add screenshots here once the app is running.
+<img width="702" height="934" alt="image" src="https://github.com/user-attachments/assets/bb383cd8-228b-4e15-aae8-86f38725a687" />
+
 
 ## Setup
 
