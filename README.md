@@ -6,8 +6,9 @@ This application was conceived and invented by Caitlin Connor-Royer and Dale Roy
 
 Software development was contributed separately and does not claim ownership of the underlying concept, idea, or intellectual property.
 
-##Caitlin Connor-Royer & Dale Royer — Original Inventors
-##Wes Roddie — Software Developer
+Caitlin Connor-Royer & Dale Royer — Original Inventors
+
+Wes Roddie — Software Developer
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A React Native (Expo) iOS/Android app that detects nearby landmarks as you drive or walk and announces them aloud — like turn-by-turn navigation, but for points of interest.
 
