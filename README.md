@@ -1,5 +1,5 @@
 # Landmark Guide
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Original Concept & Vision
 
 This application was conceived and invented by Caitlin Connor-Royer and Dale Royer. All credit for the original idea, concept, and vision belongs entirely to them.
@@ -8,7 +8,7 @@ Software development was contributed separately and does not claim ownership of 
 
 Caitlin Connor-Royer & Dale Royer — Original Inventors
 Wes Roddie — Software Developer
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A React Native (Expo) iOS/Android app that detects nearby landmarks as you drive or walk and announces them aloud — like turn-by-turn navigation, but for points of interest.
 
 ## Features
